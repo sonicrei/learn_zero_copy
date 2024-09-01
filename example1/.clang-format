@@ -1,0 +1,9 @@
+# .clang-format
+BasedOnStyle: LLVM
+IndentWidth: 4
+UseTab: Never
+BreakBeforeBraces: Allman
+AllowShortFunctionsOnASingleLine: All
+SpaceBeforeParens: ControlStatements
+Cpp11BracedListStyle: true
+IndentCaseLabels: true
